@@ -1,0 +1,48 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form th:action="@{/addnews}" method="post" id="lform">
+        <input type="hidden" name="id" th:value="${newsinfo !=null ? newsinfo.id : ''}">
+        样式类型：<select name="type">
+            <option th:value="1">1（单图类）</option>
+            <option th:value="2">2（三图类）</option>
+        </select>
+        <p></p>
+        新闻类型：<select name="newsType">
+            <option th:value="1">1（Banner类）</option>
+            <option th:value="2">2（新闻类）</option>
+        </select>
+        <p></p>
+        <input type="text" name="newsName" th:value="${newsinfo != null ? newsinfo.newsName : ''}" placeholder="输入新闻标题"/>
+        <p></p>
+        <input type="text" name="img1" id="img1" th:value="${newsinfo != null ? newsinfo.img1 : ''}" placeholder="输入新闻图片1的地址">
+        <p></p>
+        <input type="text" name="img2" id="img2" th:value="${newsinfo != null ? newsinfo.img2 : ''}" placeholder="输入新闻图片2的地址">
+        <p></p>
+        <input type="text" name="img3" id="img3" th:value="${newsinfo != null ? newsinfo.img3 : ''}" placeholder="输入新闻图片3的地址">
+        <p></p>
+        <input type="text" name="newsUrl" th:value="${newsinfo != null ? newsinfo.newsUrl : ''}" placeholder="输入新闻的源地址">
+        <p></p>
+        <input type="submit" value="提交" />
+    </form>
+</body>
+<script>
+    function check() {
+        let i = [[${msg}]];
+        let f = document.getElementById("lform");
+        if(i === 1){
+            f.action = '/editnews';
+        }else {
+            f.action = '/addnews'
+        }
+    }
+    check();
+</script>
+</html>

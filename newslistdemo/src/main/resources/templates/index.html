@@ -1,0 +1,43 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>id</th>
+            <th>type</th>
+            <th>newsName</th>
+            <th>img1</th>
+            <th>img2</th>
+            <th>img3</th>
+            <th>newsUrl</th>
+            <th>newsType</th>
+            <th>操作</th>
+        </tr>
+        <tr th:each="news : ${newslist}">
+            <td th:text="${news.id}"></td>
+            <td th:text="${news.type == 1 ? '单图样式' : '三图样式'}"></td>
+            <td th:text="${news.newsName}"></td>
+            <td th:text="${news.img1}"></td>
+            <td th:text="${news.img2}"></td>
+            <td th:text="${news.img3}"></td>
+            <td th:text="${news.newsUrl}"></td>
+            <td th:text="${news.newsType == 1 ? 'Banner类' : '新闻类'}"></td>
+            <td>
+                <a th:href="@{/deletenew} + '/' + ${news.id}">删除</a>
+                <a th:href="@{/editnew} + '/' + ${news.id}">修改</a>
+            </td>
+        </tr>
+    </table>
+    <a th:href="@{/addnew}">添加新数据</a>
+    <a th:href="@{/top/getAdData}">Banner数据接口</a>
+    <a th:href="@{/top/getNewsData}">新闻数据接口</a>
+    <p th:if="${not #strings.isEmpty(msg)}" th:text="${msg}" style="color: red"></p>
+</body>
+</html>

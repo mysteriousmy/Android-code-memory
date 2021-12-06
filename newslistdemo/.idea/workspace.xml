@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d03a0b5f-1e36-4547-8f77-e6326d9ec616" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../flowershop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowershop/src/main/java/com/qiang/model/Messagebord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowershop/src/main/webapp/WEB-INF/jsp/admin/messagebord/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowershop/src/main/webapp/WEB-INF/jsp/messagebord.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin-demo/src/hello.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-site/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/banner_ai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/banner_internet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/banner_java.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/banner_ui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/home_ad_list_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/home_news_list_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/top/news_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petshop/src/main/java/PetshopApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petshop/src/main/resources/mapper/AdminUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petshop/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petshop/src/main/resources/mapper/CategorySecondMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petshop/src/main/resources/mapper/OrderItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petshop/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petshop/src/main/resources/mapper/PetsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petshop/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petshop/src/main/resources/static/index/images/background1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petshop/src/main/resources/static/index/images/background2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/aspect/LogOfIpAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/config/LoginHandlerInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/config/MyWebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/constant/ErrorConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/constant/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/constant/Identitys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/constant/SystemConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/controllers/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/controllers/all/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/controllers/all/ComissioninController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/controllers/all/CommissionCotroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/controllers/all/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/dao/AdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/dao/CommisionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/dao/Commissiondao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/dao/Impl/AdminDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/dao/Impl/CommisionDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/dao/Impl/CommisioninDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/dao/Impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/exception/GlobalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/pojo/Accounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/pojo/Commision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/pojo/Commisionin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/pojo/Commisiontype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/pojo/notifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/services/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/services/CommisionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/services/IMailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/services/IMailVerifyCodeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/services/Impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/services/Impl/CommissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/services/Impl/IMailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/services/Impl/IMailVerifyCodeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/services/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/util/APIResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/util/AllControllerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/util/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/java/com/schoolcs/project/util/PartternUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/kaptcha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/css/mdui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/css/mdui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/css/mdui.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-BlackItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-BlackItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-MediumItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-RegularItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-RegularItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-ThinItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/fonts/roboto/Roboto-ThinItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/icons/material-icons/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/icons/material-icons/MaterialIcons-Regular.ijmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/icons/material-icons/MaterialIcons-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/icons/material-icons/MaterialIcons-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/js/mdui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/js/mdui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/static/js/mdui.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolCS/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-site" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo03/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/Demo03Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/Demo03Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/controller/TableController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/controller/TableController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/dao/EmployeeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/dao/EmployeeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/pojo/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo03/src/main/java/com/example/demo03/demo03/pojo/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo03/src/main/resources/templates/error/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo03/src/main/resources/templates/table-basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo03/src/main/resources/templates/table-basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-shrio-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-shrio-demo/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - data.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - data.db" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="HTML File" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Program Files\apache-maven-3.6.1\local" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/../../SSM/PictrueMall/PictrueMall.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dmuNsa8BpDQwqLceEQMGG778pY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/sqlite" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.newslist.demo.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\vscode\spring-study\springboot\newslistdemo\src\main\resources\static\sqlite" />
+      <recent name="L:\vscode\spring-study\springboot\newslistdemo\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 9 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 9 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="newslistdemo" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="newslistdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.newslist.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@735c7afb" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@735c7afb" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@cae2bd5" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d03a0b5f-1e36-4547-8f77-e6326d9ec616" name="Default Changelist" comment="" />
+      <created>1593042552109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593042552109</updated>
+      <workItem from="1593042553641" duration="15677000" />
+      <workItem from="1593095516964" duration="601000" />
+      <workItem from="1593105168690" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

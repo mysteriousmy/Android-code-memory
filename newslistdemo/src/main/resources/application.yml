@@ -1,0 +1,18 @@
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  port: 8080
+spring:
+  devtools:
+    restart:
+      enabled: true
+      additional-paths: src/main/kotlin
+  thymeleaf:
+    cache: false
+  resources:
+    static-locations: classpath:/static/
+  datasource:
+    driver-class-name: org.sqlite.JDBC
+    url: jdbc:sqlite::resource:static/sqlite/data.db
+mybatis:
+  mapperLocations: classpath:mapper/**/*.xml

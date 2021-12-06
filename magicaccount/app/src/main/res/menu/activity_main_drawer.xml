@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="首页" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/setting"
+            android:title="设置" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/login"
+            android:title="登录" />
+        <item
+            android:id="@+id/nav_tendcy"
+            android:icon="@drawable/tendcy"
+            android:title="账本分析" />
+        <item
+            android:id="@+id/nav_tendcy0"
+            android:icon="@mipmap/ri"
+            android:title="本日账单" />
+        <item
+            android:id="@+id/nav_tendcy1"
+            android:icon="@mipmap/zhou"
+            android:title="本周账单" />
+        <item
+            android:id="@+id/nav_tendcy2"
+            android:icon="@mipmap/yue"
+            android:title="本月账单" />
+        <item
+            android:id="@+id/nav_tendcy3"
+            android:icon="@mipmap/nian"
+            android:title="本年账单" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about"
+            android:title="关于" />
+    </group>
+
+
+
+
+
+</menu>

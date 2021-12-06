@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.newslist.demo.dao.DataDao">
+    <select id="getAllData" resultType="com.newslist.demo.pojo.NewsList">
+        select * from newslist;
+    </select>
+    <select id="getNewsById" resultType="com.newslist.demo.pojo.NewsList">
+        select * from newslist where id = #{id}
+    </select>
+    <select id="getNewsByNewsType" resultType="com.newslist.demo.pojo.NewsList">
+        select * from newslist where newsType = #{newsType}
+    </select>
+    <delete id="deleteData">
+        delete from newslist where id = #{id}
+    </delete>
+    <insert id="addData" parameterType="com.newslist.demo.pojo.NewsList">
+        insert into newslist (type, newsName, img1, img2, img3, newsUrl, newsType) values (#{newsList.type}, #{newsList.newsName}, #{newsList.img1}, #{newsList.img2}, #{newsList.img3}, #{newsList.newsUrl}, #{newsList.newsType})
+    </insert>
+    <update id="updateData" parameterType="com.newslist.demo.pojo.NewsList">
+        update newslist set type = #{newsList.type},
+        newsType = #{newsList.newsType},
+        newsName = #{newsList.newsName},
+        img1 = #{newsList.img1},
+        img2 = #{newsList.img2},
+        img3 = #{newsList.img3},
+        newsUrl = #{newsList.newsUrl}
+        where id = #{newsList.id}
+    </update>
+</mapper>

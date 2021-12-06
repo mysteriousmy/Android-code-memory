@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/accountone"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="90dp"
+    android:background="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:onClick="getAccountType"
+    android:layout_height="70dp"
+    android:orientation="vertical">
+    <com.mystrey.magicaccount.myview.MyImageView
+        android:id="@+id/onepage_ticon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_blue_light"/>
+
+    <TextView
+        android:id="@+id/onepage_tname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Item" />
+
+</LinearLayout>
